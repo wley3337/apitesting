@@ -4,6 +4,7 @@
 ### Given 
  
 * URL: https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
+* You can only make 50 requests, so be cautious. 
 
 #### Dilverables 
 
